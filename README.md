@@ -1,6 +1,6 @@
 <div> 
   <h3> About me </h3> 
-  <p> I'm a backend Java Developer</p>
+  <p> I'm a full stack developer</p>
   
   <h3>Contact me</h3>
   <a href = "mailto:lucaenglish13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
